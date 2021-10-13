@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/palvsv/house-rent-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/palvsv/house-rent-react/static/js/main.57e15f44.chunk.js",
+    "main.js.map": "/palvsv/house-rent-react/static/js/main.57e15f44.chunk.js.map",
+    "runtime-main.js": "/palvsv/house-rent-react/static/js/runtime-main.b0b88b9e.js",
+    "runtime-main.js.map": "/palvsv/house-rent-react/static/js/runtime-main.b0b88b9e.js.map",
+    "static/js/2.24fe57a4.chunk.js": "/palvsv/house-rent-react/static/js/2.24fe57a4.chunk.js",
+    "static/js/2.24fe57a4.chunk.js.map": "/palvsv/house-rent-react/static/js/2.24fe57a4.chunk.js.map",
+    "static/js/3.a24944c9.chunk.js": "/palvsv/house-rent-react/static/js/3.a24944c9.chunk.js",
+    "static/js/3.a24944c9.chunk.js.map": "/palvsv/house-rent-react/static/js/3.a24944c9.chunk.js.map",
+    "index.html": "/palvsv/house-rent-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/palvsv/house-rent-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.24fe57a4.chunk.js.LICENSE.txt": "/palvsv/house-rent-react/static/js/2.24fe57a4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/palvsv/house-rent-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b88b9e.js",
+    "static/js/2.24fe57a4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.57e15f44.chunk.js"
+  ]
+}
